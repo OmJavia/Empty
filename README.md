@@ -4,4 +4,5 @@ it is a new project which i am working and would reval about it when it's comple
 
 Here i am giving a hints of my new project 
 Where i am using :-
-    a. 
+    a. Python
+    b. HTML
