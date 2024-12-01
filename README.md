@@ -6,3 +6,5 @@ Here i am giving a hints of my new project
 Where i am using :-
     a. Python
     b. HTML
+    c. CSS
+    d. JavaScript
