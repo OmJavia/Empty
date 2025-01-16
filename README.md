@@ -4,7 +4,7 @@ it is a new project which i am working and would reval about it when it's comple
 
 Here i am giving a hints of my new project 
 Where i am using :-
-    a. Python
+    a. Python 
     b. HTML
     c. CSS
     d. JavaScript
@@ -13,3 +13,4 @@ Where i am using :-
     g. Nextt.js
     h. Anvil
     i. Redux
+    j. Redis
