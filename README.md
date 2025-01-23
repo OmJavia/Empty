@@ -14,3 +14,4 @@ Where i am using :-
         h. Anvil
         i. Redux
         j. Redis
+        k. Typescript
