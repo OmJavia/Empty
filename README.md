@@ -13,6 +13,5 @@ Where i am using :-
         g. Nextt.js
         h. Anvil
         i. Redux
-        j. Redis
         k. Typescript
         l. Bootstrap
