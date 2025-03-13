@@ -16,4 +16,3 @@ Where i am using :-
         k. Typescript
         l. Bootstrap
         m. Docker
-        n. 
