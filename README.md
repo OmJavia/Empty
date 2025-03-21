@@ -17,3 +17,4 @@ Where i am using :-
         l. Bootstrap
         m. Docker
         n. Kubernatives
+        o. Tailwind CSS
