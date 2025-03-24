@@ -19,3 +19,4 @@ Where i am using :-
         n. Kubernatives
         o. Tailwind CSS
         p. Java
+        q. Open CV
