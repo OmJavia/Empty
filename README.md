@@ -22,5 +22,3 @@ Where i am using :-
         q. Open CV
         r. R
         s. Django
-        t. Open CV
-        u. Ruby
