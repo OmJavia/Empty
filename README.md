@@ -20,5 +20,3 @@ Where i am using :-
         o. Tailwind CSS
         p. Java
         q. Open CV
-        r. R
-        s. Django
