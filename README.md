@@ -10,7 +10,7 @@ Where i am using :-
         d. JavaScript
         e. React
         f. Node.js
-        g. Nextt.js
+        g. Next.js
         h. Anvil
         i. Redux
         k. Typescript
@@ -23,3 +23,4 @@ Where i am using :-
         r. C++
         s. C
         t. Three.js
+        u. React Native
