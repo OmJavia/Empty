@@ -26,3 +26,4 @@ Where i am using :-
         u. Django
         v. Rust
         w. Redis
+        x. Retrival Augmented Generation
