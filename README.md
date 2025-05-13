@@ -27,3 +27,4 @@ Where i am using :-
         v. Rust
         w. Redis
         x. Retrival Augmented Generation
+        y. LLM
