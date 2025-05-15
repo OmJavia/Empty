@@ -28,3 +28,4 @@ Where i am using :-
         w. Redis
         x. Retrival Augmented Generation
         y. LLM
+        z. RAG
