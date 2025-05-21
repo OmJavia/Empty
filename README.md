@@ -29,3 +29,4 @@ Where i am using :-
         x. Retrival Augmented Generation
         y. LLM
         z. RAG
+        aa. NAT (Network Address Translation)
