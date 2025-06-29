@@ -32,3 +32,4 @@ Where i am using :-
         aa. NAT (Network Address Translation)
         ab. Trae AI
         ac. Cursor
+        ad. Metashot
