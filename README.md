@@ -37,4 +37,3 @@ Where i am using :-
         af. Kubernatives
         ag. Ollama
         ah. Data Science
-        ai. Artificial Intelligence
