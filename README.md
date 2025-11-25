@@ -36,4 +36,4 @@ Where i am using :-
         ae. Postman
         af. Kubernatives
         ag. Ollama
-        ak.
+        ak. Notebook LLM
