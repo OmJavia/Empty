@@ -36,4 +36,5 @@ Where i am using :-
         ae. Postman
         af. Kubernatives
         ag. Ollama
-        ak. Notebook LLM
+        ah. Notebook LLM
+        ai. Fireflies.ai
