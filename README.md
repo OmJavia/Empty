@@ -38,4 +38,3 @@ Where i am using :-
         ag. Ollama
         ah. Notebook LLM
         ai. Fireflies.ai
-        aj. Apna College
