@@ -37,4 +37,3 @@ Where i am using :-
         af. Kubernatives
         ag. Ollama
         ah. Notebook LLM
-        ai. Fireflies.ai
