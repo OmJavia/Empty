@@ -37,4 +37,4 @@ Where i am using :-
         af. Kubernatives
         ag. Ollama
         ah. OOPS
-        ai.
+        ai. REDUX
